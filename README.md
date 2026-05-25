@@ -19,3 +19,4 @@ Minimal Vite + React project for the AI EDA dashboard component.
 ```bash
 npm run build
 ```
+# Gen-AI-Predictive-DashBoard
