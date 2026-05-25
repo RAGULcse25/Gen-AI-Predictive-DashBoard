@@ -1,0 +1,8 @@
+Product,Sales,Region,Category,Rating
+Laptop,50000,North_Delhi,Electronics,4.5
+Tablet,35000,South_Mumbai,Electronics,4.2
+Monitor,25000,East_Bangalore,Electronics,4.8
+Keyboard,8000,West_Pune,Accessories,4.1
+Mouse,5000,North_Delhi,Accessories,4.6
+Desk,12000,South_Mumbai,Furniture,4.3
+Chair,9000,East_Bangalore,Furniture,4.4
